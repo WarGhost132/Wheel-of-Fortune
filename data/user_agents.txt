@@ -1,0 +1,47 @@
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+facebookexternalhit/1.1
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1; line-poker/1.0
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1; kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984
+facebookexternalhit/1.1; kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984
+facebookexternalhit/1.1 (compatible;)
+Mozilla/5.0 (compatible; The Lounge IRC Client; +https://github.com/thelounge/thelounge) facebookexternalhit/1.1 Twitterbot/1.0
+facebookexternalhit/1.1; kakaotalk-scrap/1.0;
+RemindPreview/1.0 facebookexternalhit/1.0
+facebookexternalhit/1.1 (compatible; Blueno/1.0; +http://naver.me/scrap)
+facebookexternalhit/1.1 (Kraphio)
+facebookexternalhit/1.1; belly-scrap/1.0; +https://blog.naver.com/whaleteam/221250531643
+facebookexternalhit/1.1 (+https://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1; between-scrap/1.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+recon (github.com/jimmysawczuk/recon; similar to Facebot) facebookexternalhit/1.1
+facebookexternalhit/1.1; Mozilla/5.0 (compatible; WorksOgCrawler/1.0.0;)
+facebookexternalhit/1.1; goscraper/1.0;
+facebookexternalhit/1.1; kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984
+facebookexternalhit/1.1; kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984
+facebookexternalhit/1.1 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/7.0.1 Safari/537.73.11
+facebookexternalhit/1.1; scrapbook-scraper/1.0; +https://blog.naver.com/whaleteam/221250531643
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2;) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36 (Pagebot/0.1; +https://www.page.rest/) facebookexternalhit/1.1 W3C_Validator/1.654
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0 Wildlink_Preview_Bot/1.0
+facebookexternalhit/1.1 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+Python-urllib/3.5
+facebookexternalhit/1.1; kakaostory-og-reader/1.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2; facebookexternalhit) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17
+MijnVerlanglijst/1.0 like facebookexternalhit/1.1
+facebookexternalhit/1.1; kakaotalk-scrap/1.0
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) proxied-by-deeplink.me
+facebookexternalhit/1.1 (+http(s)://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) FirePHP/0.5
+RemindPreview/1.0 facebookexternalhit/1.0
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1 (+http(s)://www.facebook.com/externalhit_uatext.php)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+httpx - Open-source project (github.com/projectdiscovery/httpx)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.89 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
